@@ -11,7 +11,7 @@ Manual intervention was necessary in cases where automated matching (using ![_fu
 
 The resultant _.csv_, _.shp_, _.geojson_ etc. files in the ![output]('output') folder can now, quite simply, be loaded into an environment as a basemap for spatial analysis and/or visualisation, or be modified and enhanced as necessary.
 
-Saħħa!
+Saħħa u sliem!
 
 ![maltaregions](output/localities_map_withLegend.jpg)
 
