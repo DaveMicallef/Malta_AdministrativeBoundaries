@@ -13,4 +13,5 @@ The resultant _.csv_ ,_.shp_ ,_.geojson_ etc. files in the ![output]('output') f
 
 Saħħa!
 
-![maltaregions](output/localities_map.jpg)
+![maltaregions](output/localities_map_withLegend.jpg)
+
