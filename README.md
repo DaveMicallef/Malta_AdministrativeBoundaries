@@ -3,7 +3,7 @@
 _.shp_, _.csv_, _.geojson_ etc. are in the [output](./output) folder.
 
 ## Summary
-At the time of this writing, the _Administrative Units And Boundaries_ in GML format, published in the [Planning Authority's geoportal](https://msdi.data.gov.mt/geonetwork/srv/api/records/4c949ce6-70aa-4b18-b806-2e5a1a9544f9), remains locked and cumbersome to manipulate for research initiatives. _(NB, the legal disclaimer is located at the bottom of this document.)_
+At the time of this writing, the _Administrative Units And Boundaries_ in GML format, published in the [Planning Authority's geoportal](https://msdi.data.gov.mt/geonetwork/srv/api/records/4c949ce6-70aa-4b18-b806-2e5a1a9544f9), remains locked and cumbersome to manipulate (e.g. exporting to an ESRI Shapefile).
 
 The code in this repository extracts the administrative units' polygons from the GML and merges them with a separate list of [local councils](https://en.wikipedia.org/wiki/Local_councils_of_Malta) to curate a single data frame containing the official administrative ID, its all-important geometry, and a recognisable locality name with various English and Maltese aliases (e.g. San Ġiljan and Saint Julian's, Valletta and Il-Belt Valletta, Marsaskala, Marsascala, and Wied il-Għajn, etc.). 
 
