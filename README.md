@@ -14,6 +14,3 @@ The resultant _.csv_, _.shp_, _.geojson_ etc. files in the [output](./output) fo
 Saħħa u sliem!
 
 ![maltaregions](output/localities_map_withLegend.jpg)
-
-### Legal disclaimer
-The original .GML seems intentionally secured to prevent unauthorised modifications, but no licensing or user restriction information was found within the file or the aforemention repository. As far as the author is aware, this initiative is believed to be in complete compliance with international copyright laws and regulations as well as relevant licensing codes and conventions.
